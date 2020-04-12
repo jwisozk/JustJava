@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Просто Java</string>
+    <string name="chocolate">Шоколад</string>
+    <string name="hint_name">Имя</string>
+    <string name="order">ЗАКАЗ</string>
+    <string name="order_summary">Список заказа</string>
+    <string name="quantity">Количество</string>
+    <string name="toppings">Добавки</string>
+    <string name="whipped_cream">Взбитые сливки</string>
+    <string name="add_chocolate">Добавить шоколад?</string>
+    <string name="add_whipped_cream">"Добавить взбитые сливки? "</string>
+    <string name="order_name">
+        Имя: <xliff:g id="name" example="Igor">%s</xliff:g>
+    </string>
+    <string name="thank_you">Спасибо!</string>
+    <string name="total">"Итого: "</string>
+</resources>
